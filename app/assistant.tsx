@@ -45,7 +45,7 @@ Siempre cerrá la conversación invitando a seguir explorando si el usuario dese
               <BreadcrumbList>
                 <BreadcrumbItem className="hidden md:block">
                   <BreadcrumbLink href="#">
-                    Build Your Own ChatGPT UX
+                    Tu espacio emocional de descubirmiento
                   </BreadcrumbLink>
                 </BreadcrumbItem>
                 <BreadcrumbSeparator className="hidden md:block" />

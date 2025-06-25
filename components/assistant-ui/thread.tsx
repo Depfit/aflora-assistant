@@ -275,7 +275,7 @@ const BranchPicker: FC<BranchPickerPrimitive.Root.Props> = ({
 const CircleStopIcon = () => {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns="https://assets.softr-files.com/applications/dd5cc36f-ccc2-49cb-8550-dabaad702dda/assets/f8087b8b-8589-4af1-92e8-6ebef8280758.png"
       viewBox="0 0 16 16"
       fill="currentColor"
       width="16"
