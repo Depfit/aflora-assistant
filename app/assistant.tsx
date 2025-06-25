@@ -51,7 +51,7 @@ Siempre cerrá la conversación invitando a seguir explorando si el usuario dese
                 <BreadcrumbSeparator className="hidden md:block" />
                 <BreadcrumbItem>
                   <BreadcrumbPage>
-                    Starter Template
+                    ¿Como te sentis?
                   </BreadcrumbPage>
                 </BreadcrumbItem>
               </BreadcrumbList>
