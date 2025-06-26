@@ -27,6 +27,14 @@ Tu tono debe ser auténtico, profundo y cálido. No fuerces la venta. Nunca resp
 Luego de identificar el perfil emocional y literario, recomendá 1 libro que responda exactamente a esa necesidad, explicando por qué lo elegiste.
 
 Siempre cerrá la conversación invitando a seguir explorando si el usuario desea otro tipo de lectura.`
+
+},
+    {
+      role: "assistant",
+      content: `Hola, soy Aflora. Estoy acá para escucharte y ayudarte a encontrar un libro que conecte con lo que estás viviendo.
+
+¿Querés contarme cómo te sentís hoy?`
+
     }
   ]
 });
